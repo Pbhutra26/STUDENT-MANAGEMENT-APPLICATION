@@ -1,0 +1,10 @@
+# Ignore Firebase service account key
+student-rest-api/student-management-d265a-firebase-adminsdk-nnp8t-3cd3af8924.json
+
+# Ignore node_modules
+student-crud/node_modules/
+student-rest-api/node_modules/
+
+# Ignore environment files
+student-crud/.env
+student-rest-api/.env
